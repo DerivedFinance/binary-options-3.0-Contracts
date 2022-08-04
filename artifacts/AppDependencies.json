@@ -1,0 +1,168 @@
+{
+  "contractName": "AppDependencies",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.5.10+commit.5a6ea5b1\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"project:/contracts/AppDependencies.sol\":\"AppDependencies\"},\"evmVersion\":\"petersburg\",\"libraries\":{},\"optimizer\":{\"enabled\":true,\"runs\":200},\"remappings\":[]},\"sources\":{\"@gnosis.pm/conditional-tokens-contracts/contracts/CTHelpers.sol\":{\"keccak256\":\"0x921eadb1d6cd0e742448334fb84c39b358a18cdeb7c6badbb89cae847d44a201\",\"urls\":[\"bzzr://54ea8cd3a2ef100710306ce15475573542ad5235ced471d59fa1744cfaea51c8\",\"dweb:/ipfs/Qme871evGa1PBSBnV9PisLhYnFnnahLmBuy5KakLSUKRPF\"]},\"@gnosis.pm/conditional-tokens-contracts/contracts/ConditionalTokens.sol\":{\"keccak256\":\"0x11a610a3fa07ac8a59a09a76fdb944f058fdb06d3414fe49995595e68cd17d41\",\"urls\":[\"bzzr://aec70f70bf6166a9ae46146c7d293156967b345273a250667732f6f8a4355342\",\"dweb:/ipfs/QmWUFR7eKVsMS61UCK1yY2bQQhcqEQHAAmJ2FJ3GozWV8k\"]},\"@gnosis.pm/conditional-tokens-contracts/contracts/ERC1155/ERC1155.sol\":{\"keccak256\":\"0xd8e6583f45a98380ff10a5656a7ae7ba6a275e0d051043e5842f0d541abd7caa\",\"urls\":[\"bzzr://978cc82d056d10d8cc14b02f35801b10c0c2f87b0adbf6c41bbd622e20ab8cee\",\"dweb:/ipfs/QmYWqCK6moph6oeBEUc1nDaGz4GRdGXmykwKD5rykVbhcU\"]},\"@gnosis.pm/conditional-tokens-contracts/contracts/ERC1155/ERC1155TokenReceiver.sol\":{\"keccak256\":\"0x5d1e709c759b9bd72865c8608582d66fc338fde3a77f41abb04ae943915a5695\",\"urls\":[\"bzzr://55e5a597486430ad437bb8c8f0c93cf573b833fa84ccf64a25afaa01c761b839\",\"dweb:/ipfs/QmQ727N1676jG9F5iwakSG2RNeV82TVBGJHgHPmHxib8ah\"]},\"@gnosis.pm/conditional-tokens-contracts/contracts/ERC1155/IERC1155.sol\":{\"keccak256\":\"0x4971631d7de74464fed3e0abac04553e917be5e8cd10b3f825e2e7c39ccc2734\",\"urls\":[\"bzzr://e1e88dfe7440ceab59d4cd604d12e5dc93409a3c5058e497763703027ea7b9e6\",\"dweb:/ipfs/QmRzsL1o6iVEFmqBYCo3XpM4kpvbK7iSJWssXHQ3gHb5uq\"]},\"@gnosis.pm/conditional-tokens-contracts/contracts/ERC1155/IERC1155TokenReceiver.sol\":{\"keccak256\":\"0xca815b5ca57df8f1056b962c2728d6a1e56fc7d9a7869ccee8f5a1ac6075b75d\",\"urls\":[\"bzzr://61df3e61bf24c80714e326ffdc274aaefc342241de3e72374131f613cddbd042\",\"dweb:/ipfs/QmPnF3rGuY2H3Gifvha4dW7fJPptP7wJerHzjz4dpzfTJW\"]},\"@gnosis.pm/conditional-tokens-market-makers/contracts/ERC20.sol\":{\"keccak256\":\"0x40a58d43f7c61c93c3e31fa2e398cbbd2768635703066fc37fc98ec19c1da70f\",\"urls\":[\"bzzr://535a311aa4c5d1d4c082822608b7d41eecdc45e4be9df6dc190f158546c809d9\",\"dweb:/ipfs/QmUacDZ7YZ7spzy2XsQuaZeMnKNTQuJUs7cXgQAjbGNScW\"]},\"@gnosis.pm/conditional-tokens-market-makers/contracts/FixedProductMarketMaker.sol\":{\"keccak256\":\"0x68003703f48a2b244f5f0fe19473bb1602791d1277882ab3a159af3b1a31daec\",\"urls\":[\"bzzr://4d0cb66cc5c935d8631414bd811452c0eb2901bf6ef794350ebc393085b075fe\",\"dweb:/ipfs/QmdZskHkHDANmxM4XVcXLLeUjRJTuUKpWYYRFbR1FseVwv\"]},\"@gnosis.pm/conditional-tokens-market-makers/contracts/FixedProductMarketMakerFactory.sol\":{\"keccak256\":\"0x4f62424866e2d66f773c69d1ffc7ef6f5e80db0b030eeb12f9c2141eac76618a\",\"urls\":[\"bzzr://36e6e2b3a16c9222166219664b9ebfbca2bef8a6e47ca569fe091e4a9d14f03f\",\"dweb:/ipfs/QmP5mWVxN2u4bNPjxgc1ULqwNmJK5WZhcMhDt5XT9kt8Ry\"]},\"@gnosis.pm/util-contracts/contracts/ConstructedCloneFactory.sol\":{\"keccak256\":\"0xd07c04b6aea8ff41993cb0179120bb7c2416476311d992633578f6084b4f783a\",\"urls\":[\"bzzr://da18076e9777db71f6068039ed24a9c3171e272d87cb3090b0036fc5a64d97e8\",\"dweb:/ipfs/QmPXGzL5oMwUJSPxsD3L2bXxsaVqw88cGn6JzU6hskpL7U\"]},\"openzeppelin-solidity/contracts/introspection/ERC165.sol\":{\"keccak256\":\"0xac2eacd7e7762e275442f28f21d821544df5aae2ed7698af13be8c41b7005e2e\",\"urls\":[\"bzzr://43e901f6f210568ebc1d3591da3ce6a9d10796b854767a9c6e3da10305a8a332\",\"dweb:/ipfs/QmQhfx2Ufr8a2gFXm3KogL66xGgAuAWMwcamkWFKGG6Vya\"]},\"openzeppelin-solidity/contracts/introspection/IERC165.sol\":{\"keccak256\":\"0x661553e43d7c4fbb2de504e5999fd5c104d367488350ed5bf023031bd1ba5ac5\",\"urls\":[\"bzzr://fc2ba15143ce3a00268ecd15fc98eb2469b18bfe27a64bbab0ac6446f161c739\",\"dweb:/ipfs/QmV7wjtRf11ibUHh4g8JjuhMpy68pPhV95L2y46UBoRfsZ\"]},\"openzeppelin-solidity/contracts/math/SafeMath.sol\":{\"keccak256\":\"0x4ccf2d7b51873db1ccfd54ca2adae5eac3b184f9699911ed4490438419f1c690\",\"urls\":[\"bzzr://1604f5b6d6e916c154efd8c6720cda069e5ba32dfa0a9dedf2b42e5b02d07f89\",\"dweb:/ipfs/QmV3yVktya1s617QmuzQR2CfuJgUi3dR2xEZY9ecmqZ2G1\"]},\"openzeppelin-solidity/contracts/token/ERC20/IERC20.sol\":{\"keccak256\":\"0x90e8c2521653bbb1768b05889c5760031e688d9cd361f167489b89215e201b95\",\"urls\":[\"bzzr://aa8b45b57edafc3d67bc5d916327ea16807fae33f753ca163ae0c4061b789766\",\"dweb:/ipfs/QmP5NaEwZthQeM2ESz4WTT3osrP7jhbvu7ocbttBi2JAw6\"]},\"openzeppelin-solidity/contracts/utils/Address.sol\":{\"keccak256\":\"0xf3358e5819ca73357abd6c90bdfffd0474af54364897f6b3e3234c4b71fbe9a1\",\"urls\":[\"bzzr://f7f6da60a184233fd666ac44e6fb2bd51ca6ebdc4867a310d368049aa4e62786\",\"dweb:/ipfs/Qmb3kNCoBUZdah1AgBBD4zMk898j5Qw8ahT1w5cCMYp5Y3\"]},\"project:/contracts/AppDependencies.sol\":{\"keccak256\":\"0xb8665402f47987174893ba45d6f8eafa189decc8140240371eb696c6a1870556\",\"urls\":[\"bzzr://7626eb59715e87eccca69b7b57dcbe2b05fdbd5be0e110c49a5d5e4aa8819eca\",\"dweb:/ipfs/QmcNrccns6AWbPMLBQaWY1yPbKKBJDeJUjxZFsMt5RzBNZ\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603e80601d6000396000f3fe6080604052600080fdfea265627a7a72305820bab1ce7a383700a44b070b9736aa925847f95fd2f58e01fc136c4b106eaafb7064736f6c634300050a0032",
+  "deployedBytecode": "0x6080604052600080fdfea265627a7a72305820bab1ce7a383700a44b070b9736aa925847f95fd2f58e01fc136c4b106eaafb7064736f6c634300050a0032",
+  "sourceMap": "573:28:15:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;573:28:15;;;;;;;",
+  "deployedSourceMap": "573:28:15:-;;;;;",
+  "source": "pragma solidity ^0.5.1;\n\n// NOTE: This file porpouse is just to make sure truffle compiles all of depending\n//  contracts when we are in development.\n\n// import '@gnosis.pm/conditional-tokens-market-makers/contracts/LMSRMarketMaker.sol';\n// import '@gnosis.pm/conditional-tokens-market-makers/contracts/LMSRMarketMakerFactory.sol';\n// import 'canonical-weth/contracts/WETH9.sol';\n\nimport '@gnosis.pm/conditional-tokens-market-makers/contracts/FixedProductMarketMaker.sol';\nimport '@gnosis.pm/conditional-tokens-market-makers/contracts/FixedProductMarketMakerFactory.sol';\n\ncontract AppDependencies {\n}\n",
+  "sourcePath": "/home/markmanu/task/derived/conditional-tokens-tutorial/contracts/AppDependencies.sol",
+  "ast": {
+    "absolutePath": "project:/contracts/AppDependencies.sol",
+    "exportedSymbols": {
+      "AppDependencies": [
+        4782
+      ]
+    },
+    "id": 4783,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 4779,
+        "literals": [
+          "solidity",
+          "^",
+          "0.5",
+          ".1"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:15"
+      },
+      {
+        "absolutePath": "@gnosis.pm/conditional-tokens-market-makers/contracts/FixedProductMarketMaker.sol",
+        "file": "@gnosis.pm/conditional-tokens-market-makers/contracts/FixedProductMarketMaker.sol",
+        "id": 4780,
+        "nodeType": "ImportDirective",
+        "scope": 4783,
+        "sourceUnit": 4121,
+        "src": "381:91:15",
+        "symbolAliases": [],
+        "unitAlias": ""
+      },
+      {
+        "absolutePath": "@gnosis.pm/conditional-tokens-market-makers/contracts/FixedProductMarketMakerFactory.sol",
+        "file": "@gnosis.pm/conditional-tokens-market-makers/contracts/FixedProductMarketMakerFactory.sol",
+        "id": 4781,
+        "nodeType": "ImportDirective",
+        "scope": 4783,
+        "sourceUnit": 4420,
+        "src": "473:98:15",
+        "symbolAliases": [],
+        "unitAlias": ""
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 4782,
+        "linearizedBaseContracts": [
+          4782
+        ],
+        "name": "AppDependencies",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 4783,
+        "src": "573:28:15"
+      }
+    ],
+    "src": "0:602:15"
+  },
+  "legacyAST": {
+    "attributes": {
+      "absolutePath": "project:/contracts/AppDependencies.sol",
+      "exportedSymbols": {
+        "AppDependencies": [
+          4782
+        ]
+      }
+    },
+    "children": [
+      {
+        "attributes": {
+          "literals": [
+            "solidity",
+            "^",
+            "0.5",
+            ".1"
+          ]
+        },
+        "id": 4779,
+        "name": "PragmaDirective",
+        "src": "0:23:15"
+      },
+      {
+        "attributes": {
+          "SourceUnit": 4121,
+          "absolutePath": "@gnosis.pm/conditional-tokens-market-makers/contracts/FixedProductMarketMaker.sol",
+          "file": "@gnosis.pm/conditional-tokens-market-makers/contracts/FixedProductMarketMaker.sol",
+          "scope": 4783,
+          "symbolAliases": [
+            null
+          ],
+          "unitAlias": ""
+        },
+        "id": 4780,
+        "name": "ImportDirective",
+        "src": "381:91:15"
+      },
+      {
+        "attributes": {
+          "SourceUnit": 4420,
+          "absolutePath": "@gnosis.pm/conditional-tokens-market-makers/contracts/FixedProductMarketMakerFactory.sol",
+          "file": "@gnosis.pm/conditional-tokens-market-makers/contracts/FixedProductMarketMakerFactory.sol",
+          "scope": 4783,
+          "symbolAliases": [
+            null
+          ],
+          "unitAlias": ""
+        },
+        "id": 4781,
+        "name": "ImportDirective",
+        "src": "473:98:15"
+      },
+      {
+        "attributes": {
+          "baseContracts": [
+            null
+          ],
+          "contractDependencies": [
+            null
+          ],
+          "contractKind": "contract",
+          "documentation": null,
+          "fullyImplemented": true,
+          "linearizedBaseContracts": [
+            4782
+          ],
+          "name": "AppDependencies",
+          "nodes": [
+            null
+          ],
+          "scope": 4783
+        },
+        "id": 4782,
+        "name": "ContractDefinition",
+        "src": "573:28:15"
+      }
+    ],
+    "id": 4783,
+    "name": "SourceUnit",
+    "src": "0:602:15"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.5.10+commit.5a6ea5b1.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.4.7",
+  "updatedAt": "2022-08-04T15:33:18.368Z",
+  "devdoc": {
+    "methods": {}
+  },
+  "userdoc": {
+    "methods": {}
+  }
+}
