@@ -24,7 +24,6 @@ const HDWalletProvider = require('@truffle/hdwallet-provider')
 // const mnemonic = process.env.REACT_APP_OPERATOR_MNEMONIC || 'myth like bonus scare over problem client lizard pioneer submit female collect'
 const privKey = process.env.REACT_APP_OPERATOR_PRIVKEY;
 const BSCSCANAPIKEY = process.env.BSCSCAN_API_KEY;
-console.log(BSCSCANAPIKEY);
 
 // const createInfuraEntry = (networkName, networkId, gasPrice) => ({
 //   [networkName]: {

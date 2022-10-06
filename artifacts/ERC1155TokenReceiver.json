@@ -142,7 +142,7 @@
         "id": 2028,
         "nodeType": "ImportDirective",
         "scope": 2052,
-        "sourceUnit": 4547,
+        "sourceUnit": 7523,
         "src": "63:66:3",
         "symbolAliases": [],
         "unitAlias": ""
@@ -156,10 +156,10 @@
               "id": 2029,
               "name": "ERC165",
               "nodeType": "UserDefinedTypeName",
-              "referencedDeclaration": 4546,
+              "referencedDeclaration": 7522,
               "src": "164:6:3",
               "typeDescriptions": {
-                "typeIdentifier": "t_contract$_ERC165_$4546",
+                "typeIdentifier": "t_contract$_ERC165_$7522",
                 "typeString": "contract ERC165"
               }
             },
@@ -188,8 +188,8 @@
         ],
         "contractDependencies": [
           2200,
-          4546,
-          4556
+          7522,
+          7532
         ],
         "contractKind": "contract",
         "documentation": null,
@@ -198,8 +198,8 @@
         "linearizedBaseContracts": [
           2051,
           2200,
-          4546,
-          4556
+          7522,
+          7532
         ],
         "name": "ERC1155TokenReceiver",
         "nodeType": "ContractDefinition",
@@ -417,7 +417,7 @@
                       "name": "_registerInterface",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 4545,
+                      "referencedDeclaration": 7521,
                       "src": "231:18:3",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_internal_nonpayable$_t_bytes4_$returns$__$",
@@ -516,7 +516,7 @@
       },
       {
         "attributes": {
-          "SourceUnit": 4547,
+          "SourceUnit": 7523,
           "absolutePath": "openzeppelin-solidity/contracts/introspection/ERC165.sol",
           "file": "openzeppelin-solidity/contracts/introspection/ERC165.sol",
           "scope": 2052,
@@ -533,8 +533,8 @@
         "attributes": {
           "contractDependencies": [
             2200,
-            4546,
-            4556
+            7522,
+            7532
           ],
           "contractKind": "contract",
           "documentation": null,
@@ -542,8 +542,8 @@
           "linearizedBaseContracts": [
             2051,
             2200,
-            4546,
-            4556
+            7522,
+            7532
           ],
           "name": "ERC1155TokenReceiver",
           "scope": 2052
@@ -558,7 +558,7 @@
                 "attributes": {
                   "contractScope": null,
                   "name": "ERC165",
-                  "referencedDeclaration": 4546,
+                  "referencedDeclaration": 7522,
                   "type": "contract ERC165"
                 },
                 "id": 2029,
@@ -659,7 +659,7 @@
                               "overloadedDeclarations": [
                                 null
                               ],
-                              "referencedDeclaration": 4545,
+                              "referencedDeclaration": 7521,
                               "type": "function (bytes4)",
                               "value": "_registerInterface"
                             },
@@ -903,7 +903,7 @@
   },
   "networks": {},
   "schemaVersion": "3.4.7",
-  "updatedAt": "2022-08-04T15:33:18.245Z",
+  "updatedAt": "2022-08-10T19:34:02.224Z",
   "devdoc": {
     "methods": {
       "onERC1155BatchReceived(address,address,uint256[],uint256[],bytes)": {
